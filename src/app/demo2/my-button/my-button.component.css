@@ -1,0 +1,15 @@
+.yellow {
+  background-color: yellow;
+}
+
+.red {
+  background-color: red;
+}
+
+.small {
+  height: 50px;
+}
+
+.large {
+  height: 100px;
+}
